@@ -15,7 +15,7 @@ function Cmasmas() {
       </div>
       <center>
         <a href="https://github.com/LuisEduardo-CerdaMendoza?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '25px' }}>
+          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al repositorio General 🔗
           </button>
         </a>
@@ -29,7 +29,7 @@ function Cmasmas() {
 
         <div style={{ textAlign: 'right'}}>
         <a href="https://github.com/LuisEduardo-CerdaMendoza/CancionDeMarioBros" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al proyecto 🔗
           </button>
         </a>
@@ -45,7 +45,7 @@ function Cmasmas() {
 
         <div style={{ textAlign: 'right'}}>
         <a href="https://github.com/LuisEduardo-CerdaMendoza/LICUADORA" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al proyecto 🔗
           </button>
         </a>
@@ -61,7 +61,7 @@ function Cmasmas() {
 
         <div style={{ textAlign: 'right'}}>
         <a href="https://github.com/LuisEduardo-CerdaMendoza/SensorDeMovimiento" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+          <button style={{ backgroundColor: '#6B5012', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al proyecto 🔗
           </button>
         </a>
