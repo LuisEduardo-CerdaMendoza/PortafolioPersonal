@@ -15,7 +15,7 @@ const Kotlin = () => {
       </div>
       <center>
         <a href="https://github.com/LuisEduardo-CerdaMendoza?tab=repositories&q=&type=&language=kotlin&sort=" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '25px' }}>
+          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al repositorio General 🔗
           </button>
         </a>
@@ -29,7 +29,7 @@ const Kotlin = () => {
 
         <div style={{ textAlign: 'right'}}>
         <a href="https://github.com/LuisEduardo-CerdaMendoza/Proyecto-Con-Firebase-Y-Kotlin" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al proyecto 🔗
           </button>
         </a>
@@ -45,7 +45,7 @@ const Kotlin = () => {
 
         <div style={{ textAlign: 'right'}}>
         <a href="https://github.com/LuisEduardo-CerdaMendoza/APIClima-Kotlin" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al proyecto 🔗
           </button>
         </a>
@@ -61,7 +61,7 @@ const Kotlin = () => {
 
         <div style={{ textAlign: 'right'}}>
         <a href="https://github.com/LuisEduardo-CerdaMendoza/ApiPokemon-Kotlin" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+          <button style={{ backgroundColor: '#4A0085', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al proyecto 🔗
           </button>
         </a>
