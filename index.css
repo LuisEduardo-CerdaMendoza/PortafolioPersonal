@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    color: #fff;
+} */
+
+body {
+    background-image: url('https://previews.123rf.com/images/stuartphoto/stuartphoto1407/stuartphoto140701196/29632111-ramificaciones-de-fondo-que-muestra-la-programaci%C3%B3n-y-firing-informaci%C3%B3n.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    max-width: 1900px;
+    margin: 5px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: rgba(43, 42, 42, 0.7);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+  }
+
+  .contentpython {
+    max-width: 1000px;
+    margin: 5px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: rgba(28, 21, 124, 0.685);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: white;
+  }
+
+  .contenthtml {
+    max-width: 1100px;
+    margin: 5px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: #914e10c0;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: rgb(255, 255, 255);
+  }
+
+  .contentjavascript {
+    max-width: 1100px;
+    margin: 5px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: rgba(211, 208, 36, 0.74);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: rgb(0, 0, 0);
+  }
+
+  .contentkotlin {
+    max-width: 1100px;
+    margin: 40px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: rgba(98, 0, 122, 0.705);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: white;
+  }
+
+  .contentcmas{
+    max-width: 1100px;
+    margin: 40px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: rgba(94, 70, 26, 0.671);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: rgb(255, 255, 255);
+  }
+
+  .contentarchive {
+    max-width: 5000px;
+    margin: 5px auto 0; /* Agregar margen superior de 80px */
+    padding: 100px;
+    background-color: rgba(6, 77, 17, 0.685);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    color: white;
+  }
+  
+  .top-section {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 350px;
+  }
+  
+  .profile-image {
+    width: 300px;
+    height: 300px;
+    
+    border-radius: 50%;
+    margin-right: 20px;
+    overflow: hidden;
+  }
+  
+  .profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .intro-text {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0px; /* Añade un poco de margen al borde derecho */
+  }
+  
+  .social-links a {
+    margin-right: 20px;
+  }
+  
+  .social-links img {
+    height: 30px;
+  }
+  
+  .main-content {
+    text-align: justify;
+  }
+  
+  .tech-icons img {
+    margin: 5px;
+  }
+  
+  .support-links img {
+    margin: 5px;
+    height: 40px;
+  }
+  h1{
+    font-size: 50px;
+    font-weight: bold; /* Haz que el texto activo sea más audaz */
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold; /* Haz que el texto activo sea más audaz */
+  }
+  h3 {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold; /* Haz que el texto activo sea más audaz */
+  }
+
+  h4{
+    text-align: left;
+    font-size: 15px;
+  }
+
+  .indented-text {
+    text-indent: 20px;
+  }
+  
+  
