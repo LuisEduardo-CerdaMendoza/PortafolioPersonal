@@ -20,7 +20,7 @@ const JavaScript = () => {
       </div>
       <center>
         <a href="https://github.com/LuisEduardo-CerdaMendoza?tab=repositories&q=&type=&language=javascript&sort=" target="_blank" rel="noopener noreferrer">
-          <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '25px' }}>
+          <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
             Ir al repositorio General 🔗
           </button>
         </a>
@@ -34,7 +34,7 @@ const JavaScript = () => {
 
       <div style={{ textAlign: 'right'}}>
       <a href="https://github.com/LuisEduardo-CerdaMendoza/Ixchel_AppMovil" target="_blank" rel="noopener noreferrer">
-        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
           Ir al proyecto 🔗
         </button>
       </a>
@@ -50,7 +50,7 @@ const JavaScript = () => {
 
       <div style={{ textAlign: 'right'}}>
       <a href="https://github.com/LuisEduardo-CerdaMendoza/Sistema_de_Venta" target="_blank" rel="noopener noreferrer">
-        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
           Ir al proyecto 🔗
         </button>
       </a>
@@ -66,7 +66,7 @@ const JavaScript = () => {
 
       <div style={{ textAlign: 'right'}}>
       <a href="https://github.com/LuisEduardo-CerdaMendoza/ApiDePokemonParaAplicacionKotlin" target="_blank" rel="noopener noreferrer">
-        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
           Ir al proyecto 🔗
         </button>
       </a>
@@ -82,7 +82,7 @@ const JavaScript = () => {
 
       <div style={{ textAlign: 'right'}}>
       <a href="https://github.com/LuisEduardo-CerdaMendoza/Pokedex-React" target="_blank" rel="noopener noreferrer">
-        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '5px' }}>
+        <button style={{ backgroundColor: '#DBE500', color: 'black', padding: '10px 20px', border: 'none', borderRadius: '50px' }}>
           Ir al proyecto 🔗
         </button>
       </a>
