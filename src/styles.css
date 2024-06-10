@@ -67,7 +67,7 @@ nav a.active[href="/kotlin"] {
 }
 
   nav a.active[href="/C++"] {
-    color: #7a741b; /* Morado claro para Kotlin */
+    color: #4e4a14; /* Morado claro para Kotlin */
     font-weight: bold; /* Haz que el texto activo sea más audaz */
 }
 
